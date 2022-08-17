@@ -1,0 +1,1227 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+<phylogeny rooted="true"><clade>
+<clade>
+<name>Peptostreptococcus anaerobius</name>
+<branch_length>0.1753542235</branch_length>
+</clade>
+<clade>
+<branch_length>0.1753542235</branch_length>
+<clade>
+<name>Paraclostridium bifermentans A</name>
+<branch_length>0.208609161</branch_length>
+</clade>
+<clade>
+<branch_length>0.222581218</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.331566259</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium aceticum</name>
+<branch_length>0.043794863</branch_length>
+</clade>
+<clade>
+<name>Clostridium formicaceticum</name>
+<branch_length>0.041779321</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.060141525</branch_length>
+<confidence type="bootstrap">0.991</confidence>
+<clade>
+<name>Clostridium aminobutyricum</name>
+<branch_length>0.579060955</branch_length>
+</clade>
+<clade>
+<branch_length>0.075153564</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.115852050</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.357380263</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium vitabionis</name>
+<branch_length>0.304519253</branch_length>
+</clade>
+<clade>
+<branch_length>0.063550243</branch_length>
+<confidence type="bootstrap">0.966</confidence>
+<clade>
+<branch_length>0.043089356</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium fessum</name>
+<branch_length>0.112780149</branch_length>
+</clade>
+<clade>
+<name>Clostridium transplantifaecale</name>
+<branch_length>0.100743595</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.064184869</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium indicum</name>
+<branch_length>0.151309951</branch_length>
+</clade>
+<clade>
+<name>Clostridium porci</name>
+<branch_length>0.174620312</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.213409708</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium phoceensis</name>
+<branch_length>0.476614172</branch_length>
+</clade>
+<clade>
+<branch_length>0.426460974</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium minihomine</name>
+<branch_length>0.066116204</branch_length>
+</clade>
+<clade>
+<branch_length>0.048164134</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium jeddahense</name>
+<branch_length>0.029986188</branch_length>
+</clade>
+<clade>
+<name>Clostridium merdae</name>
+<branch_length>0.047015390</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.117561868</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium cylindrosporum DSM 605</name>
+<branch_length>0.421698843</branch_length>
+</clade>
+<clade>
+<branch_length>0.109431900</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.065466227</branch_length>
+<confidence type="bootstrap">0.998</confidence>
+<clade>
+<branch_length>0.484746504</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.141334640</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. coassembly mag 260</name>
+<branch_length>0.000981506</branch_length>
+</clade>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-turkey</name>
+<branch_length>0.002288080</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.134141655</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-rat-Yit</name>
+<branch_length>0.078457577</branch_length>
+</clade>
+<clade>
+<branch_length>0.072577971</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.000467931</branch_length>
+<confidence type="bootstrap">0.393</confidence>
+<clade>
+<branch_length>0.000414439</branch_length>
+<confidence type="bootstrap">0.300</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. Stanford diarrhea</name>
+<branch_length>0.001482251</branch_length>
+</clade>
+<clade>
+<branch_length>0.000278868</branch_length>
+<confidence type="bootstrap">0.392</confidence>
+<clade>
+<name>Candidatus Arthromitus sp.</name>
+<branch_length>0.000786117</branch_length>
+</clade>
+<clade>
+<branch_length>0.002434759</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. 'Pasteur'</name>
+<branch_length>0.000848819</branch_length>
+</clade>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-mouse-NL</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.000884594</branch_length>
+<confidence type="bootstrap">0.997</confidence>
+<clade>
+<branch_length>0.000000005</branch_length>
+<confidence type="bootstrap">0.875</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-mouse-Yit</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<branch_length>0.000000006</branch_length>
+<confidence type="bootstrap">0.716</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-mouse-NYU</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-mouse-Japan</name>
+<branch_length>0.000245988</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.000241724</branch_length>
+<confidence type="bootstrap">0.949</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-4</name>
+<branch_length>0.000076920</branch_length>
+</clade>
+<clade>
+<branch_length>0.000000005</branch_length>
+<confidence type="bootstrap">0.000</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-1</name>
+<branch_length>0.016173761</branch_length>
+</clade>
+<clade>
+<branch_length>0.000000005</branch_length>
+<confidence type="bootstrap">0.769</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-mouse-SU</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<branch_length>0.000000005</branch_length>
+<confidence type="bootstrap">0.000</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-co</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<branch_length>0.000798207</branch_length>
+<confidence type="bootstrap">0.834</confidence>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-2</name>
+<branch_length>0.000321526</branch_length>
+</clade>
+<clade>
+<name>Candidatus Arthromitus sp. SFB-5</name>
+<branch_length>0.000384722</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade><clade>
+<name>Candidatus Arthromitus sp. GSU</name>
+<branch_length>0.000467380</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>WQUF01 sp009785875</name>
+<branch_length>0.489645360</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.065842283</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.095195588</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium cellulovorans 743B</name>
+<branch_length>0.232334645</branch_length>
+</clade>
+<clade>
+<name>Clostridium bornimense</name>
+<branch_length>0.245094089</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.029856039</branch_length>
+<confidence type="bootstrap">0.919</confidence>
+<clade>
+<branch_length>0.028166717</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.095615909</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium oryzae</name>
+<branch_length>0.202202580</branch_length>
+</clade>
+<clade>
+<name>Clostridium thermarum</name>
+<branch_length>0.163970547</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.032586927</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.029262676</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.152947567</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium amylolyticum</name>
+<branch_length>0.081129784</branch_length>
+</clade>
+<clade>
+<name>Clostridium polynesiense</name>
+<branch_length>0.090452202</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.045668344</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.024604424</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.023209457</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium fallax</name>
+<branch_length>0.163560206</branch_length>
+</clade>
+<clade>
+<branch_length>0.038987756</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium polyendosporum</name>
+<branch_length>0.112484397</branch_length>
+</clade>
+<clade>
+<branch_length>0.133885469</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium fungisolvens</name>
+<branch_length>0.010446759</branch_length>
+</clade>
+<clade>
+<name>Clostridium zeae</name>
+<branch_length>0.011983603</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.031928056</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium cavendishii DSM 21758</name>
+<branch_length>0.150674820</branch_length>
+</clade>
+<clade>
+<branch_length>0.047676299</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.086601162</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium massiliamazoniense</name>
+<branch_length>0.137605065</branch_length>
+</clade>
+<clade>
+<name>Clostridium mediterraneense</name>
+<branch_length>0.142864561</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.030844826</branch_length>
+<confidence type="bootstrap">0.953</confidence>
+<clade>
+<name>Clostridium tarantellae</name>
+<branch_length>0.135286501</branch_length>
+</clade>
+<clade>
+<name>Clostridium perfringens</name>
+<branch_length>0.132075469</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.021295572</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium intestinale DSM 6191</name>
+<branch_length>0.203612530</branch_length>
+</clade>
+<clade>
+<branch_length>0.051291000</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.043920623</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.064094809</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.096647906</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.019840787</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.000901213</branch_length>
+<clade>
+<name>Clostridium disporicum 13470 2 75</name>
+<branch_length>0.0</branch_length>
+</clade>
+<clade>
+<name>Clostridium disporicum MGYG-HGUT-00047</name>
+<branch_length>0.0</branch_length>
+</clade>
+</clade><clade>
+<name>Clostridium disporicum NSJ-49</name>
+<branch_length>0.001535899</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.026672940</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp000753455 jeddahtimonense</name>
+<branch_length>0.002032435</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp000753455 NSJ-6</name>
+<branch_length>0.001476663</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.019810275</branch_length>
+<confidence type="bootstrap">0.869</confidence>
+<clade>
+<branch_length>0.117323404</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.012768877</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp000435835 MGS221</name>
+<branch_length>0.000585703</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp000435835 UMGS632</name>
+<branch_length>0.000058881</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.016698808</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp001916075 29 15</name>
+<branch_length>0.001329253</branch_length>
+</clade>
+<clade>
+<branch_length>0.000737253</branch_length>
+<confidence type="bootstrap">0.871</confidence>
+<clade>
+<branch_length>0.001500524</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp001916075 MGS265</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp001916075 UMGS53</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.000276941</branch_length>
+<confidence type="bootstrap">0.954</confidence>
+<clade>
+<name>Clostridium sp001916075 M16</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp001916075 NSJ-42</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.049738042</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.050084008</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium celatum D43t1 170807 C1</name>
+<branch_length>0.000144839</branch_length>
+</clade>
+<clade>
+<branch_length>0.000313966</branch_length>
+<confidence type="bootstrap">0.960</confidence>
+<clade>
+<name>Clostridium celatum WC0700</name>
+<branch_length>0.000056222</branch_length>
+</clade>
+<clade>
+<branch_length>0.000699232</branch_length>
+<clade>
+<name>Clostridium celatum DSM 1785</name>
+<branch_length>0.0</branch_length>
+</clade>
+<clade>
+<name>Clostridium celatum MGYG-HGUT-01423</name>
+<branch_length>0.0</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.024481497</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.022003667</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp900766315 SRS373047 16</name>
+<branch_length>0.018600660</branch_length>
+</clade>
+<clade>
+<branch_length>0.009932998</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.008366804</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.007689775</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp900547475</name>
+<branch_length>0.009412406</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp900547475 UMGS990</name>
+<branch_length>0.005776375</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.005841709</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium cuniculi 1</name>
+<branch_length>0.001293305</branch_length>
+</clade>
+<clade>
+<branch_length>0.000887089</branch_length>
+<confidence type="bootstrap">0.999</confidence>
+<clade>
+<name>Clostridium cuniculi Stanford diarrhea</name>
+<branch_length>0.000568145</branch_length>
+</clade>
+<clade>
+<branch_length>0.000146068</branch_length>
+<confidence type="bootstrap">0.758</confidence>
+<clade>
+<branch_length>0.000112570</branch_length>
+<confidence type="bootstrap">0.870</confidence>
+<clade>
+<branch_length>0.000147011</branch_length>
+<confidence type="bootstrap">0.879</confidence>
+<clade>
+<name>Clostridium cuniculi MGYG-HGUT-00104</name>
+<branch_length>0.000572158</branch_length>
+</clade>
+<clade>
+<name>Clostridium cuniculi BSD2780061688 150302 E7</name>
+<branch_length>0.000267010</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.000347561</branch_length>
+<confidence type="bootstrap">0.978</confidence>
+<clade>
+<name>Clostridium cuniculi BSD2780120875 150330 B8</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Clostridium cuniculi B</name>
+<branch_length>0.000051047</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Clostridium cuniculi An435</name>
+<branch_length>0.000529352</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<name>Clostridium sp900543325 UMGS558</name>
+<branch_length>0.013118643</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.018299982</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.049485387</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sp900540255</name>
+<branch_length>0.000501711</branch_length>
+</clade>
+<clade>
+<branch_length>0.000322067</branch_length>
+<confidence type="bootstrap">0.236</confidence>
+<clade>
+<name>Clostridium sp900540255 UMGS222</name>
+<branch_length>0.001033741</branch_length>
+</clade>
+<clade>
+<name>Clostridium sp900540255 SRS295021 20</name>
+<branch_length>0.001155557</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.022031094</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium saudiense 13414 6 42</name>
+<branch_length>0.000345170</branch_length>
+</clade>
+<clade>
+<branch_length>0.000047648</branch_length>
+<confidence type="bootstrap">0.742</confidence>
+<clade>
+<name>Clostridium saudiense 14207 7 77</name>
+<branch_length>0.000295210</branch_length>
+</clade>
+<clade>
+<branch_length>0.000047906</branch_length>
+<confidence type="bootstrap">0.643</confidence>
+<clade>
+<branch_length>0.000095929</branch_length>
+<confidence type="bootstrap">0.895</confidence>
+<clade>
+<name>Clostridium saudiense JCC</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Clostridium saudiense 13414 6 11</name>
+<branch_length>0.000431524</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.000143564</branch_length>
+<confidence type="bootstrap">0.927</confidence>
+<clade>
+<name>Clostridium saudiense 13470 2 74</name>
+<branch_length>0.000383413</branch_length>
+</clade>
+<clade>
+<name>Clostridium saudiense MGYG-HGUT-00149</name>
+<branch_length>0.000335454</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></clade></clade><clade>
+<branch_length>0.027070579</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium gasigenes</name>
+<branch_length>0.155414058</branch_length>
+</clade>
+<clade>
+<branch_length>0.022028969</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.052557020</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium chauvoei</name>
+<branch_length>0.041433288</branch_length>
+</clade>
+<clade>
+<name>Clostridium septicum</name>
+<branch_length>0.040510381</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.038997947</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium isatidis</name>
+<branch_length>0.187776343</branch_length>
+</clade>
+<clade>
+<branch_length>0.025253933</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tertium</name>
+<branch_length>0.046058513</branch_length>
+</clade>
+<clade>
+<branch_length>0.022828769</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium nigeriense</name>
+<branch_length>0.047324025</branch_length>
+</clade>
+<clade>
+<name>Clostridium sartagoforme</name>
+<branch_length>0.070208400</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade><clade>
+<branch_length>0.028813964</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.069337148</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.047824297</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium uliginosum</name>
+<branch_length>0.077807895</branch_length>
+</clade>
+<clade>
+<branch_length>0.059058110</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium taeniosporum</name>
+<branch_length>0.037380983</branch_length>
+</clade>
+<clade>
+<name>Clostridium cagae</name>
+<branch_length>0.036904831</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.041126336</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium neonatale</name>
+<branch_length>0.105388472</branch_length>
+</clade>
+<clade>
+<branch_length>0.019028287</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium butyricum</name>
+<branch_length>0.087938221</branch_length>
+</clade>
+<clade>
+<branch_length>0.018355451</branch_length>
+<confidence type="bootstrap">0.998</confidence>
+<clade>
+<name>Clostridium saccharobutylicum DSM 13864</name>
+<branch_length>0.071132889</branch_length>
+</clade>
+<clade>
+<branch_length>0.043436880</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium puniceum</name>
+<branch_length>0.059183252</branch_length>
+</clade>
+<clade>
+<branch_length>0.013570155</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium saccharoperbutylacetonicum N1-4</name>
+<branch_length>0.062986338</branch_length>
+</clade>
+<clade>
+<branch_length>0.013091970</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium chromiireducens</name>
+<branch_length>0.050736636</branch_length>
+</clade>
+<clade>
+<branch_length>0.049268428</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium diolis</name>
+<branch_length>0.001627383</branch_length>
+</clade>
+<clade>
+<name>Clostridium beijerinckii</name>
+<branch_length>0.000696177</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></clade><clade>
+<branch_length>0.017456057</branch_length>
+<confidence type="bootstrap">0.328</confidence>
+<clade>
+<branch_length>0.072643039</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium thermobutyricum</name>
+<branch_length>0.155655767</branch_length>
+</clade>
+<clade>
+<branch_length>0.054524965</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium baratii</name>
+<branch_length>0.066114761</branch_length>
+</clade>
+<clade>
+<branch_length>0.022447294</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium moniliforme</name>
+<branch_length>0.064264643</branch_length>
+</clade>
+<clade>
+<name>Clostridium sardiniense</name>
+<branch_length>0.052588993</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.049351051</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium vincentii</name>
+<branch_length>0.173918580</branch_length>
+</clade>
+<clade>
+<name>Clostridium paraputrificum</name>
+<branch_length>0.102268116</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade><clade>
+<branch_length>0.032924608</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.132347297</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium amazonitimonense</name>
+<branch_length>0.074632906</branch_length>
+</clade>
+<clade>
+<branch_length>0.120137756</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium algidicarnis</name>
+<branch_length>0.020428623</branch_length>
+</clade>
+<clade>
+<name>Clostridium putrefaciens</name>
+<branch_length>0.022723428</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.039274484</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium cadaveris</name>
+<branch_length>0.204326826</branch_length>
+</clade>
+<clade>
+<branch_length>0.083622311</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium hydrogeniformans DSM 21757</name>
+<branch_length>0.110370568</branch_length>
+</clade>
+<clade>
+<name>Clostridium frigidicarnis</name>
+<branch_length>0.117176366</branch_length>
+</clade>
+</clade></clade></clade></clade></clade><clade>
+<branch_length>0.021977535</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.015583556</branch_length>
+<confidence type="bootstrap">0.988</confidence>
+<clade>
+<branch_length>0.072618916</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.072072479</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.060935762</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium arbusti SL206</name>
+<branch_length>0.066436779</branch_length>
+</clade>
+<clade>
+<name>Clostridium pasteurianum</name>
+<branch_length>0.081348623</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.063926315</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium akagii DSM 12554</name>
+<branch_length>0.115927493</branch_length>
+</clade>
+<clade>
+<name>Clostridium acidisoli DSM 12555</name>
+<branch_length>0.073443053</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.077136646</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium guangxiense</name>
+<branch_length>0.142533069</branch_length>
+</clade>
+<clade>
+<branch_length>0.126123527</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium acetobutylicum DSM 1731</name>
+<branch_length>0.045667975</branch_length>
+</clade>
+<clade>
+<branch_length>0.041775723</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium roseum</name>
+<branch_length>0.000559992</branch_length>
+</clade>
+<clade>
+<branch_length>0.000370904</branch_length>
+<confidence type="bootstrap">0.049</confidence>
+<clade>
+<name>Clostridium felsineum DSM 794</name>
+<branch_length>0.001285139</branch_length>
+</clade>
+<clade>
+<name>Clostridium aurantibutyricum</name>
+<branch_length>0.001411249</branch_length>
+</clade>
+</clade></clade></clade></clade></clade><clade>
+<branch_length>0.019069690</branch_length>
+<confidence type="bootstrap">0.967</confidence>
+<clade>
+<name>Clostridium prolinivorans</name>
+<branch_length>0.215917378</branch_length>
+</clade>
+<clade>
+<branch_length>0.025887144</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.058310960</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.156651488</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium pascui</name>
+<branch_length>0.025623124</branch_length>
+</clade>
+<clade>
+<name>Clostridium peptidivorans</name>
+<branch_length>0.021436394</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.018113710</branch_length>
+<confidence type="bootstrap">0.255</confidence>
+<clade>
+<branch_length>0.187236087</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tetani</name>
+<branch_length>0.044203535</branch_length>
+</clade>
+<clade>
+<name>Clostridium cochlearium</name>
+<branch_length>0.033448357</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.023354717</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium rectalis</name>
+<branch_length>0.144631950</branch_length>
+</clade>
+<clade>
+<branch_length>0.031659964</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.080147350</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tetanomorphum</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+<clade>
+<name>Clostridium tetanomorphum DSM 4474</name>
+<branch_length>0.000000005</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.032759999</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium lundense DSM 17049</name>
+<branch_length>0.052898454</branch_length>
+</clade>
+<clade>
+<name>Clostridium liquoris</name>
+<branch_length>0.061990039</branch_length>
+</clade>
+</clade></clade></clade></clade></clade><clade>
+<branch_length>0.017039480</branch_length>
+<confidence type="bootstrap">0.987</confidence>
+<clade>
+<branch_length>0.052570470</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.051567600</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.079988939</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tyrobutyricum</name>
+<branch_length>0.113100298</branch_length>
+</clade>
+<clade>
+<name>Clostridium algifaecis</name>
+<branch_length>0.094252621</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.050659071</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.100220634</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium ragsdalei P11</name>
+<branch_length>0.008551763</branch_length>
+</clade>
+<clade>
+<branch_length>0.008013418</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium ljungdahlii DSM 13528</name>
+<branch_length>0.001442135</branch_length>
+</clade>
+<clade>
+<name>Clostridium autoethanogenum DSM 10061</name>
+<branch_length>0.000665967</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.024867301</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium kluyveri NBRC 12016</name>
+<branch_length>0.130551760</branch_length>
+</clade>
+<clade>
+<name>Clostridium luticellarii</name>
+<branch_length>0.121492173</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<branch_length>0.031423251</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium fermenticellae</name>
+<branch_length>0.188178322</branch_length>
+</clade>
+<clade>
+<branch_length>0.026242199</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.095497960</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium carboxidivorans P7</name>
+<branch_length>0.011571842</branch_length>
+</clade>
+<clade>
+<branch_length>0.009148200</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium scatologenes</name>
+<branch_length>0.006780783</branch_length>
+</clade>
+<clade>
+<name>Clostridium drakei</name>
+<branch_length>0.008268873</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.025733452</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium aciditolerans</name>
+<branch_length>0.092290474</branch_length>
+</clade>
+<clade>
+<name>Clostridium magnum DSM 2767</name>
+<branch_length>0.093115663</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.026447776</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium acetireducens DSM 10703</name>
+<branch_length>0.210338171</branch_length>
+</clade>
+<clade>
+<branch_length>0.101578415</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium niameyense</name>
+<branch_length>0.118635762</branch_length>
+</clade>
+<clade>
+<branch_length>0.089995103</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tepidum</name>
+<branch_length>0.031422199</branch_length>
+</clade>
+<clade>
+<branch_length>0.020978347</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sporogenes</name>
+<branch_length>0.016259994</branch_length>
+</clade>
+<clade>
+<branch_length>0.013803372</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium botulinum A str. ATCC 3502</name>
+<branch_length>0.004350459</branch_length>
+</clade>
+<clade>
+<name>Clostridium combesii</name>
+<branch_length>0.004770875</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></clade></clade><clade>
+<name>OROOT</name>
+<branch_length>0.016721178</branch_length>
+<confidence type="bootstrap">0.991</confidence>
+<clade>
+<branch_length>0.072243275</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium grantii DSM 8605</name>
+<branch_length>0.296008385</branch_length>
+</clade>
+<clade>
+<branch_length>0.050676812</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium homopropionicum</name>
+<branch_length>0.177698933</branch_length>
+</clade>
+<clade>
+<branch_length>0.024002687</branch_length>
+<confidence type="bootstrap">0.994</confidence>
+<clade>
+<branch_length>0.111251447</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium colicanis DSM 13634</name>
+<branch_length>0.000546883</branch_length>
+</clade>
+<clade>
+<name>Clostridium thermopalmarium DSM 5974</name>
+<branch_length>0.000293612</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.077383130</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium massiliodielmoense</name>
+<branch_length>0.067177018</branch_length>
+</clade>
+<clade>
+<branch_length>0.060440105</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium haemolyticum NCTC 9693</name>
+<branch_length>0.005057138</branch_length>
+</clade>
+<clade>
+<name>Clostridium novyi</name>
+<branch_length>0.003187791</branch_length>
+</clade>
+</clade></clade></clade></clade></clade><clade>
+<branch_length>0.033517758</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.087602363</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tepidiprofundi DSM 19306</name>
+<branch_length>0.204885090</branch_length>
+</clade>
+<clade>
+<name>Clostridium collagenovorans DSM 3089</name>
+<branch_length>0.248211420</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.035925495</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.155512291</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.027169537</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium bowmanii</name>
+<branch_length>0.053957177</branch_length>
+</clade>
+<clade>
+<name>Clostridium tagluense</name>
+<branch_length>0.048939337</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.022366939</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium lacusfryxellense</name>
+<branch_length>0.064990231</branch_length>
+</clade>
+<clade>
+<branch_length>0.014296960</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.048908199</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium estertheticum subsp. estertheticum</name>
+<branch_length>0.027718669</branch_length>
+</clade>
+<clade>
+<name>Clostridium frigoris</name>
+<branch_length>0.024601102</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.022841939</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium psychrophilum</name>
+<branch_length>0.061443051</branch_length>
+</clade>
+<clade>
+<name>Clostridium algoriphilum</name>
+<branch_length>0.049440373</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<branch_length>0.083232319</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.053117549</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium argentinense</name>
+<branch_length>0.099413631</branch_length>
+</clade>
+<clade>
+<branch_length>0.067218574</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium ihumii AP5</name>
+<branch_length>0.104280728</branch_length>
+</clade>
+<clade>
+<name>Clostridium senegalense</name>
+<branch_length>0.104513839</branch_length>
+</clade>
+</clade></clade><clade>
+<branch_length>0.048112751</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<branch_length>0.087101474</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium tunisiense TJ</name>
+<branch_length>0.040251505</branch_length>
+</clade>
+<clade>
+<name>Clostridium punense</name>
+<branch_length>0.039078628</branch_length>
+</clade>
+</clade><clade>
+<branch_length>0.120835808</branch_length>
+<confidence type="bootstrap">1.000</confidence>
+<clade>
+<name>Clostridium sulfidigenes</name>
+<branch_length>0.089940671</branch_length>
+</clade>
+<clade>
+<name>Clostridium culturomicium</name>
+<branch_length>0.106495540</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></clade></phylogeny></phyloxml>

@@ -1,0 +1,252 @@
+
+
+               GToTree v1.6.34 (github.com/AstrobioMike/GToTree)
+
+
+ ---------------------------------  RUN INFO  --------------------------------- 
+
+    Command entered:
+    /home/bmerrill/miniconda3/envs/gtotree/bin/GToTree -f gtotree_genome_list_edited.txt -m gtotree_genome_list_edited_metadata.txt -a ncbi_accessions.txt -o gtotree_out -k -n 1 -j 14 -H Firmicutes -G 0.1
+
+
+    Input genome sources include:
+      - NCBI accessions listed in ncbi_accessions.txt (122 genomes)
+      - Fasta files listed in gtotree_genome_list_edited.txt (54 genomes)
+
+                             Total input genomes: 176
+
+    HMM source to be used:
+      - Firmicutes (119 targets)
+
+    Options set:
+      - The output directory has been set to "gtotree_out/"
+      - The file "gtotree_genome_list_edited_metadata.txt" will be used to modify labels of the specified genomes
+      - Individual protein alignment files will be retained, due to the "-k" flag being provided
+      - Genome minimum gene-copy threshold ("-G") has been set to 0.1
+      - Number of cpus to use during hmm search ("-n") has been set to 1
+      - Number of jobs to run during parallelizable steps has been set to 14
+
+ ############################################################################## 
+ ####          Working on the genomes provided as NCBI accessions          ####
+ ############################################################################## 
+
+
+		  Downloading RefSeq assembly summaries...
+
+
+
+	        All 122 input accessions successfully found.
+
+________________________________________________________________________________
+
+
+     ******************************* UPDATE *******************************  
+        Of the input genomes provided by NCBI accession:
+
+                All 122 successfully downloaded and searched :)
+     ********************************************************************** 
+
+
+ ############################################################################## 
+ ####            Working on the genomes provided as fasta files            ####
+ ############################################################################## 
+
+           It is currently 02:02 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 0 minutes.
+
+_______________________________________________________________________________
+
+
+ ############################################################################## 
+ ####                     Filtering genes by length                        ####
+ ############################################################################## 
+
+     Keeping those with lengths within 20% of the median for the gene set.
+
+           It is currently 02:03 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 1 minutes.
+
+________________________________________________________________________________ 
+
+
+
+ ############################################################################## 
+ ####                Filtering genomes with too few hits                   ####
+ ############################################################################## 
+
+     Removing those with fewer than 10% of the total SCGs targeted.
+
+           It is currently 02:03 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 1 minutes.
+
+             No genomes were removed for having too few hits :)
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####          Aligning, trimming, and inserting gap-sequences             ####
+ ############################################################################## 
+
+           It is currently 02:03 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 1 minutes.
+
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                  Catting all alignments together                     ####
+ ############################################################################## 
+
+           It is currently 02:21 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 19 minutes.
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                   Adding more informative headers                    ####
+ ############################################################################## 
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                         Running FastTreeMP                           ####
+ ############################################################################## 
+
+           It is currently 02:21 PM; the process started at 02:01 PM.
+               Current process runtime: 0 hours and 19 minutes.
+
+FastTree Version 2.1.11 Double precision (No SSE3), OpenMP (14 threads)
+Alignment: gtotree_out/Aligned_SCGs_mod_names.faa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Ignored unknown character X (seen 102694 times)
+      0.11 seconds: Top hits for      0 of    174 seqs (at seed    100)
+      2.64 seconds: Joined    100 of    171
+Initial topology in 4.88 seconds
+Refining topology: 30 rounds ME-NNIs, 2 rounds ME-SPRs, 15 rounds ML-NNIs
+      4.88 seconds: ME NNI round 1 of 30, 1 of 172 splits
+      5.21 seconds: ME NNI round 1 of 30, 101 of 172 splits, 9 changes (max delta 0.007)
+      5.41 seconds: ME NNI round 2 of 30, 1 of 172 splits
+      5.71 seconds: ME NNI round 2 of 30, 101 of 172 splits, 3 changes (max delta 0.000)
+      5.92 seconds: ME NNI round 3 of 30, 1 of 172 splits
+      6.11 seconds: ME NNI round 4 of 30, 1 of 172 splits
+     10.56 seconds: SPR round   1 of   2, 101 of 346 nodes
+     15.76 seconds: SPR round   1 of   2, 201 of 346 nodes
+     20.47 seconds: SPR round   1 of   2, 301 of 346 nodes
+     22.89 seconds: ME NNI round 11 of 30, 1 of 172 splits
+     23.19 seconds: ME NNI round 11 of 30, 101 of 172 splits, 0 changes
+     23.40 seconds: SPR round   2 of   2, 1 of 346 nodes
+     27.69 seconds: SPR round   2 of   2, 101 of 346 nodes
+     32.77 seconds: SPR round   2 of   2, 201 of 346 nodes
+     37.40 seconds: SPR round   2 of   2, 301 of 346 nodes
+     39.86 seconds: ME NNI round 21 of 30, 1 of 172 splits
+     40.16 seconds: ME NNI round 21 of 30, 101 of 172 splits, 0 changes
+Total branch-length 13.307 after 40.96 sec
+     41.02 seconds: ML Lengths 1 of 172 splits
+     52.50 seconds: ML Lengths 101 of 172 splits
+     60.68 seconds: ML NNI round 1 of 15, 1 of 172 splits
+     78.91 seconds: ML NNI round 1 of 15, 101 of 172 splits, 7 changes (max delta 207.876)
+ML-NNI round 1: LogLk = -1868655.809 NNIs 12 max delta 243.08 Time 91.76
+     93.54 seconds: Site likelihoods with rate category 1 of 20
+     95.32 seconds: Site likelihoods with rate category 2 of 20
+     97.10 seconds: Site likelihoods with rate category 3 of 20
+     98.89 seconds: Site likelihoods with rate category 4 of 20
+    100.67 seconds: Site likelihoods with rate category 5 of 20
+    102.45 seconds: Site likelihoods with rate category 6 of 20
+    104.24 seconds: Site likelihoods with rate category 7 of 20
+    106.03 seconds: Site likelihoods with rate category 8 of 20
+    107.82 seconds: Site likelihoods with rate category 9 of 20
+    109.60 seconds: Site likelihoods with rate category 10 of 20
+    111.39 seconds: Site likelihoods with rate category 11 of 20
+    113.21 seconds: Site likelihoods with rate category 12 of 20
+    115.00 seconds: Site likelihoods with rate category 13 of 20
+    116.78 seconds: Site likelihoods with rate category 14 of 20
+    118.57 seconds: Site likelihoods with rate category 15 of 20
+    120.35 seconds: Site likelihoods with rate category 16 of 20
+    122.13 seconds: Site likelihoods with rate category 17 of 20
+    123.92 seconds: Site likelihoods with rate category 18 of 20
+    125.70 seconds: Site likelihoods with rate category 19 of 20
+    127.48 seconds: Site likelihoods with rate category 20 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 1.049 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+    130.86 seconds: ML NNI round 2 of 15, 1 of 172 splits
+    149.52 seconds: ML NNI round 2 of 15, 101 of 172 splits, 7 changes (max delta 6.667)
+ML-NNI round 2: LogLk = -1674011.021 NNIs 9 max delta 8.58 Time 162.54
+    162.54 seconds: ML NNI round 3 of 15, 1 of 172 splits
+ML-NNI round 3: LogLk = -1673971.947 NNIs 4 max delta 38.17 Time 176.70
+    176.70 seconds: ML NNI round 4 of 15, 1 of 172 splits
+ML-NNI round 4: LogLk = -1673971.941 NNIs 3 max delta 0.00 Time 186.41
+Turning off heuristics for final round of ML NNIs (converged)
+    186.41 seconds: ML NNI round 5 of 15, 1 of 172 splits
+    205.11 seconds: ML NNI round 5 of 15, 101 of 172 splits, 5 changes (max delta 24.639)
+ML-NNI round 5: LogLk = -1673936.158 NNIs 5 max delta 24.64 Time 218.22 (final)
+    218.21 seconds: ML Lengths 1 of 172 splits
+    228.87 seconds: ML Lengths 101 of 172 splits
+Optimize all lengths: LogLk = -1673936.068 Time 236.65
+    256.07 seconds: ML split tests for    100 of    171 internal splits
+Total time: 269.42 seconds Unique: 174/176 Bad splits: 0/171
+
+
+#################################################################################
+####                                 Done!!                                  ####
+#################################################################################
+
+            All 176 input genomes were retained through the workflow!
+
+    Tree written to:
+        gtotree_out/gtotree_out.tre
+
+    Alignment written to:
+        gtotree_out/Aligned_SCGs_mod_names.faa
+
+    Individual protein alignments stored in:
+        gtotree_out/run_files/individual_alignments/
+
+    Main genomes summary table written to:
+        gtotree_out/Genomes_summary_info.tsv
+
+    Summary table with hits per target gene per genome written to:
+        gtotree_out/SCG_hit_counts.tsv
+
+    Partitions file (for downstream use with mixed-model treeing) written to:
+        gtotree_out/run_files/Partitions.txt
+
+ _______________________________________________________________________________
+
+  Notes:
+
+        10 genome(s) had an estimated redundancy of >= 10%.
+
+    Reported along with additional informative run files in:
+        gtotree_out/run_files/
+
+ _______________________________________________________________________________
+
+    Log file written to:
+        gtotree_out/gtotree-runlog.txt
+ _______________________________________________________________________________
+
+    Programs used and their citations have been written to:
+        gtotree_out/citations.txt
+
+ _______________________________________________________________________________
+
+
+                                         Total process runtime: 0 hours and 23 minutes.
+                                                      Happy Saturday :)
+
